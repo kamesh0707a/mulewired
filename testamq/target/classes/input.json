@@ -1,0 +1,17 @@
+{"items":[
+	{"id":1,
+	 "item":"Coke",
+	 "price":30,
+	 "decription":"300ml"
+	},
+	{"id":2,
+	 "item":"Coke",
+	 "price":40,
+	 "decription":"400ml"
+	},
+	{"id":3,
+	 "item":"Coke",
+	 "price":50,
+	 "decription":"500ml"
+	}
+]}
